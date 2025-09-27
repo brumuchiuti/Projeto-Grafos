@@ -1,0 +1,371 @@
+6
+85
+0 "Hospital Municipal Dr. Fernando Mauro Pires da Rocha (Campo Limpo)"
+1 "Hospital Municipal Tide Setúbal (São Miguel Paulista)"
+2 "Hospital Municipal Cidade Tiradentes 'Carmen Prudente'"
+3 "Hospital Municipal Vila Santa Catarina (Dr. Gilson de Cássia Marques de Carvalho)"
+4 "Hospital do Servidor Público Municipal (HSPM)"
+5 "Hospital Municipal M'Boi Mirim (Dr. Moysés Deutsch)"
+6 "Hospital Municipal do Tatuapé (Carmino Caricchio)"
+7 "Hospital Municipal Prof. Waldomiro de Paula (Itaquera)"
+8 "Hospital Municipal da Vila Nova Cachoeirinha (Maternidade)"
+9 "Hospital Municipal Arthur Ribeiro de Saboya (Jabaquara)"
+10 "Hospital Municipal Dr. Ignácio Proença de Gouvêa (Mooca)"
+11 "Hospital Municipal Dr. José Soares Hungria (Pirituba)"
+12 "Hospital Municipal de Ermelino Matarazzo"
+13 "Hospital Municipal Dr. Lauro Ribas Braga (Perus)"
+14 "Hospital Municipal Menino Jesus"
+15 "Hospital Municipal Sapopemba"
+16 "Hospital Municipal de Parelheiros"
+17 "Hospital Municipal Dr. Benedito Montenegro (Itaim Paulista)"
+18 "Hospital Municipal Central Sorocabana (Lapa)"
+19 "Hospital das Clínicas da FMUSP (Instituto Central)"
+20 "InCor – Instituto do Coração (HCFMUSP)"
+21 "Instituto de Ortopedia e Traumatologia (IOT) – HCFMUSP"
+22 "Instituto de Infectologia Emílio Ribas"
+23 "Hospital Heliópolis"
+24 "Hospital Ipiranga"
+25 "Hospital Geral de São Mateus"
+26 "Hospital Geral de Guaianases"
+27 "Conjunto Hospitalar do Mandaqui"
+28 "Hospital Geral Vila Penteado"
+29 "Hospital Geral de Pedreira"
+30 "Hospital Geral de Taipas"
+31 "Hospital Geral de Itaim Paulista"
+32 "Hospital Geral do Grajaú"
+33 "Hospital Estadual Vila Alpina"
+34 "Hospital São Paulo (UNIFESP)"
+35 "A.C.Camargo Cancer Center"
+36 "ICESP – Instituto do Câncer do Estado de São Paulo"
+37 "BP – Beneficência Portuguesa de São Paulo"
+38 "Hospital Santa Marcelina (Itaquera)"
+39 "Hospital Santa Marcelina (Itaim Paulista)"
+40 "Santa Casa de Misericórdia de São Paulo"
+41 "Hospital Santa Catarina - Paulista"
+42 "Hospital Cruz Azul de São Paulo"
+43 "Hospital São Camilo (Pompéia)"
+44 "Hospital São Camilo (Santana)"
+45 "Hospital São Camilo (Ipiranga)"
+46 "Hospital Sírio‑Libanês"
+47 "Hospital Israelita Albert Einstein (Morumbi)"
+48 "Hospital Israelita Albert Einstein – Perdizes/Higienópolis"
+49 "Hospital Samaritano Higienópolis"
+50 "Hospital 9 de Julho"
+51 "Hospital Alemão Oswaldo Cruz"
+52 "Hospital Leforte Liberdade"
+53 "Hospital Leforte Morumbi"
+54 "Hospital São Luiz (Itaim) – Rede D'Or"
+55 "Hospital São Luiz (Morumbi) – Rede D'Or"
+56 "Hospital São Luiz (Jabaquara) – Rede D'Or"
+57 "Hospital Santa Cruz (Vila Mariana)"
+58 "Hospital complementar SP #59"
+59 "Hospital complementar SP #60"
+60 "Hospital Vila Nova Star – Rede D'Or"
+61 "Hospital Nove de Julho – Unidade Paulista"
+62 "Hospital Albert Sabin – São Paulo"
+63 "Hospital Sancta Maggiore – Mooca"
+64 "Hospital Sancta Maggiore – Pinheiros"
+65 "Hospital São Luiz (Brooklin) – Rede D'Or"
+66 "Hospital São Luiz (Anália Franco) – Rede D'Or"
+67 "Hospital Nipo-Brasileiro"
+68 "Hospital São Luiz (Itaquera) – Rede D'Or"
+69 "Hospital e Maternidade Santa Joana"
+70 "Hospital e Maternidade Pro Matre Paulista"
+71 "Hospital e Maternidade São Luiz - Unidade Paulista"
+72 "Hospital Santa Isabel (SP)"
+73 "Hospital Nossa Senhora do Paraiso"
+74 "Hospital Sepaco"
+75 "Hospital Beneficência Portuguesa - Unidade Bela Vista"
+76 "Hospital Santo Antônio - Mooca"
+77 "Hospital e Maternidade Brasilândia"
+78 "Hospital e Maternidade Jaraguá"
+79 "Hospital e Maternidade Itaim"
+80 "Hospital Metropolitano - Tatuapé"
+81 "Hospital e Maternidade Vila Nova Cachoeirinha (privado)"
+82 "Hospital Paulistano"
+83 "Hospital São Cristóvão Saúde"
+84 "Hospital Sancta Maggiore – Itaim"
+283
+0 81 8.44
+0 75 8.54
+0 69 8.55
+0 53 8.70
+0 55 10.85
+0 45 11.40
+1 82 1.10
+1 76 4.95
+1 80 8.56
+1 74 9.50
+1 68 11.71
+1 39 1.92
+1 70 9.58
+2 70 2.71
+2 76 10.24
+2 82 12.76
+2 80 19.47
+2 74 19.60
+2 63 20.11
+5 45 5.50
+5 63 6.89
+5 68 7.43
+5 53 8.01
+5 74 8.44
+5 0 6.15
+5 9 5.74
+5 56 9.03
+6 40 0.60
+6 59 0.54
+6 4 1.01
+6 83 1.56
+6 3 1.57
+6 52 1.68
+6 14 1.05
+6 20 2.16
+7 70 3.91
+7 76 6.90
+7 82 7.12
+7 80 12.86
+7 74 13.01
+7 26 2.86
+7 63 13.61
+8 46 0.37
+8 51 0.60
+8 60 0.77
+8 52 0.93
+8 3 0.96
+8 67 1.06
+9 45 0.28
+9 63 1.15
+9 74 2.79
+9 68 3.09
+9 80 4.60
+9 24 2.69
+9 56 5.68
+10 80 1.25
+10 74 2.90
+10 68 4.44
+10 63 4.58
+10 45 5.90
+10 24 3.11
+10 56 5.42
+11 19 0.54
+11 77 0.85
+11 65 1.15
+11 54 1.37
+11 49 1.63
+11 22 0.85
+11 61 1.61
+12 49 0.70
+12 19 0.87
+12 50 0.92
+12 77 1.37
+12 37 1.69
+12 11 0.95
+12 61 1.59
+13 64 2.67
+13 44 4.91
+13 48 5.39
+13 79 5.53
+13 67 6.42
+13 60 6.50
+13 65 6.66
+14 28 0.51
+14 83 0.51
+14 40 0.51
+14 52 1.01
+14 36 0.78
+14 20 1.11
+14 6 1.05
+14 4 1.21
+15 70 0.00
+15 76 8.27
+15 82 10.23
+15 80 16.76
+15 74 16.92
+15 45 18.54
+15 2 2.71
+15 63 17.48
+16 0 4.53
+16 69 7.36
+16 75 8.31
+16 81 8.64
+16 53 9.89
+16 55 9.89
+16 47 12.05
+16 84 14.72
+17 76 1.68
+17 82 5.50
+17 70 9.68
+17 80 14.27
+17 74 15.45
+17 63 16.80
+18 73 0.00
+18 51 0.78
+18 67 0.88
+18 3 1.25
+18 4 1.71
+18 46 1.72
+19 77 0.50
+20 36 0.56
+21 62 0.63
+22 77 0.00
+22 19 0.50
+22 54 0.56
+22 61 0.94
+22 41 1.25
+22 34 1.18
+22 65 1.35
+23 61 0.27
+23 41 0.58
+23 77 0.67
+23 35 0.78
+23 54 0.80
+23 19 0.86
+24 74 0.60
+24 63 1.72
+24 80 1.94
+24 68 1.94
+24 45 2.86
+24 56 4.21
+25 76 5.49
+25 70 7.36
+25 82 9.95
+25 80 18.65
+25 74 19.50
+25 63 20.59
+26 76 4.23
+26 70 4.41
+26 82 5.92
+26 80 13.43
+26 74 13.95
+26 63 14.84
+27 44 2.70
+27 64 2.98
+27 48 4.30
+27 79 4.59
+27 67 6.35
+27 18 6.69
+27 73 6.69
+28 83 0.00
+28 20 0.61
+28 52 0.90
+28 36 0.35
+28 71 0.93
+28 58 0.79
+29 72 0.16
+29 41 0.29
+29 37 0.41
+29 61 0.57
+29 20 0.58
+29 58 0.42
+29 50 1.08
+30 46 0.23
+30 52 0.55
+30 71 0.60
+30 62 0.74
+30 60 0.90
+30 21 1.02
+30 42 0.34
+30 51 1.09
+31 70 3.00
+31 76 5.34
+31 82 7.40
+31 80 14.70
+31 74 15.12
+31 26 1.49
+31 63 15.92
+32 69 12.76
+32 75 13.67
+32 81 13.94
+32 53 14.97
+32 55 15.29
+32 0 7.27
+32 47 17.43
+33 38 2.12
+33 76 2.47
+33 70 6.61
+33 82 6.71
+33 80 15.37
+33 74 16.24
+33 17 3.27
+33 63 17.36
+34 21 0.42
+34 54 0.70
+35 62 0.46
+35 41 0.56
+35 61 0.62
+35 71 0.69
+35 21 0.80
+35 58 0.69
+36 83 0.35
+36 20 0.56
+36 71 0.58
+36 52 0.67
+36 58 0.68
+38 76 3.10
+38 70 5.17
+38 82 5.95
+38 80 14.11
+38 74 14.79
+38 26 1.49
+38 63 15.79
+39 82 1.01
+39 76 3.71
+39 80 9.77
+39 70 10.11
+39 74 10.94
+39 63 12.31
+40 4 0.83
+42 46 0.11
+42 60 0.61
+42 52 0.85
+42 71 0.90
+42 51 0.93
+42 62 0.94
+44 48 1.74
+44 79 2.04
+46 52 0.74
+47 75 4.64
+47 55 2.26
+48 79 0.30
+49 12 0.70
+49 66 1.00
+50 37 0.83
+50 72 0.98
+51 8 0.60
+51 3 0.74
+53 81 2.14
+53 69 4.75
+54 22 0.56
+54 77 0.56
+55 75 2.51
+56 78 1.90
+57 78 0.88
+57 37 0.99
+58 20 0.21
+58 29 0.42
+58 72 0.50j
+58 41 0.55
+58 37 0.71
+58 83 0.79
+58 36 0.68
+58 71 0.82
+59 40 0.43
+59 4 0.49
+59 3 1.03
+59 52 1.22
+59 83 1.35
+59 14 0.92
+59 6 0.54
+59 51 1.78
+60 21 0.88
+61 41 0.31
+62 71 0.34
+63 45 1.39
+64 79 2.89
+66 49 1.00
+70 82 10.23
+75 69 1.83
+76 82 4.58
+81 69 2.61
+84 78 0.98
