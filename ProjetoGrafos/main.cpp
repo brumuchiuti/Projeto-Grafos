@@ -1,3 +1,6 @@
+// Bruna Aguiar Muchiuti 10418358
+// Jessica dos Santos Santana Bispo 10410798
+
 #include <iostream>
 #include <vector>
 #include <string>
