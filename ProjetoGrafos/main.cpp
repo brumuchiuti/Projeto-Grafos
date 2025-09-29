@@ -368,9 +368,6 @@ void printMenu() {
 }
 
 int main() {
-    ios::sync_with_stdio(false);
-    cin.tie(nullptr);
-
     Graph G;
     string path = "grafo.txt"; // ajuste se quiser outro nome/dir
 
